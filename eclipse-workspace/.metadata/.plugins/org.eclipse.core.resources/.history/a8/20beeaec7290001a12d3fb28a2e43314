@@ -1,0 +1,31 @@
+package listspractice;
+import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+import java.util.TreeSet;
+public class listprac {
+
+	public static void main(String[] args) {
+		ArrayList<Integer> t = new ArrayList <Integer>();
+		t.add(377);
+		t.add(236);
+		t.add(457);
+		t.add(13);
+		t.add(346);
+		t.get(1);
+		t.set(1, 5);
+		boolean xy = t.contains(4);
+		int bl = t.size();
+		System.out.println(t);
+		System.out.println(xy);
+		System.out.println("Size: " + bl );
+		if (xy == true) {
+		System.out.println("Well done");
+		}
+		else {
+			System.out.println("Error");
+		}
+		
+	}
+}

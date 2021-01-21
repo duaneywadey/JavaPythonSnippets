@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ADD_INTERPRETER_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="31"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="572"/>
+		<item key="DIALOG_HEIGHT" value="429"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.dltk.ruby.core.nature">
+		<item key="org.eclipse.dltk.debug.ui.interpreter_preference_page_context.columnWidth0" value="98"/>
+		<item key="org.eclipse.dltk.debug.ui.interpreter_preference_page_context.columnWidth1" value="84"/>
+		<item key="org.eclipse.dltk.debug.ui.interpreter_preference_page_context.columnWidth2" value="164"/>
+		<item key="org.eclipse.dltk.debug.ui.interpreter_preference_page_context.sortColumn" value="1"/>
+	</section>
+</section>

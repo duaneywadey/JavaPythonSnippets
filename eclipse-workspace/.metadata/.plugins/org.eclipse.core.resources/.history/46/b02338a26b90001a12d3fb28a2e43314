@@ -1,0 +1,15 @@
+package listspractice;
+import java.util.Scanner;
+public class listprac {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int ab;
+		do {
+		System.out.print("Enter a number: ");
+		ab = scan.nextInt();
+
+	} while (ab != 5);
+
+}
+}

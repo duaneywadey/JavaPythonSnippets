@@ -1,0 +1,3 @@
+C:\Users\Ivan Duane\eclipse-workspace\.metadata\.plugins\org.eclipse.dltk.core\2602509437.index
+C:\Users\Ivan Duane\eclipse-workspace\.metadata\.plugins\org.eclipse.dltk.core\195575231.index
+C:\Users\Ivan Duane\eclipse-workspace\.metadata\.plugins\org.eclipse.dltk.core\438441389.index
