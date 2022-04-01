@@ -243,7 +243,7 @@ public class BmiCalcu {
 				
 			}
 		});
-		bmiStatusField.setBounds(217, 385, 145, 49);
+		bmiStatusField.setBounds(217, 385, 271, 49);
 		frame.getContentPane().add(bmiStatusField);
 		bmiStatusField.setColumns(10);
 	}

@@ -12,6 +12,11 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\DSA - Java"/>
+			<item value="C:\Users\Ivan Duane\Downloads\BANKING-SYSTEM-USING-SWING-JAVA-master"/>
+			<item value="C:\Users\Ivan Duane\eclipse-workspace"/>
+			<item value="C:\Users\Ivan Duane\Desktop\JavaBankApp-master"/>
+			<item value="C:\Users\Ivan Duane\Desktop\Simple-Bank-System-Java-Netbeans-master"/>
 			<item value="C:\Users\Ivan Duane\Desktop\CPU"/>
 		</list>
 	</section>

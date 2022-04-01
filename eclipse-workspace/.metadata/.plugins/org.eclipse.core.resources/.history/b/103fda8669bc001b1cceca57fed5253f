@@ -1,0 +1,49 @@
+
+abstract class Vehicles {
+  public abstract void vehicleSound();
+  // Regular method
+  
+  public void refillGas() {
+    System.out.println("Refill");
+  }
+  
+  public void startEngine() {
+	    System.out.println("Start");
+	  }
+  
+}
+
+
+
+class Car extends Vehicles {
+  public void vehicleSound() {
+ 
+    System.out.println("broom");
+  }
+}
+
+
+class Bus extends Vehicles {
+	public void vehicleSound() {
+	System.out.println("broom broom");
+}
+}
+
+
+
+
+public class MainClassAbstract {
+
+	public static void main(String[] args) {
+		Car myCar = new Car();
+		Bus myBus = new Bus();
+	    myCar.vehicleSound();
+	    myBus.vehicleSound();
+	    myCar.startEngine();
+	    
+	    
+	   
+		
+	}
+
+}
